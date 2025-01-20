@@ -1,0 +1,1 @@
+Este proyecto se realizó en el transcurso de la asignatura Programación y Diseño Orientado a Objetos (PDOO) en el año 2020 bajo la supervisión del profesor Antonio Lastra utilizando la gamificación (creación de un videojuego) como forma de exprimentar con los distintos objetos en Java y sus posibles relaciones
