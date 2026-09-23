@@ -16,7 +16,6 @@ public class Controller {
         private GameUniverse model;
         private View view;
         
-        
         private static Controller instance = null;
         
         public static Controller getInstance(){
