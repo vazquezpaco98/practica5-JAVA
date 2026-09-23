@@ -15,7 +15,8 @@ import java.util.Arrays;
 public class Controller {
         private GameUniverse model;
         private View view;
-        private View test;
+        private View test2234;
+        private View test3;
         private static Controller instance = null;
         
         public static Controller getInstance(){
